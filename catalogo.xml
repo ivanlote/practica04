@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<CATALOG>
+<CD> 
+    <TITLE>Empire Burlesque</TITLE> 
+    <ARTIST>Bob Dylan</ARTIST> 
+    <COUNTRY>Estados Unidos</COUNTRY> 
+    <COMPANY>Columbia</COMPANY> 
+    <PRICE>10.90</PRICE> 
+    <YEAR>1985</YEAR> 
+</CD> 
+
+<CD> 
+    <TITLE>Triple X</TITLE> 
+    <ARTIST>Vin Diesel</ARTIST> 
+    <COUNTRY>Estados Unidos</COUNTRY> 
+    <COMPANY>Revolution Studios y Sony Pictures</COMPANY> 
+    <PRICE>9.25</PRICE> 
+    <YEAR>2002</YEAR> 
+</CD> 
+
+<CD> 
+    <TITLE>200 Copas</TITLE> 
+    <ARTIST>Karol G</ARTIST> 
+    <COUNTRY>Mexino</COUNTRY> 
+    <COMPANY>Universal Music Latin Entertainment</COMPANY> 
+    <PRICE>19.30</PRICE> 
+    <YEAR>2021</YEAR> 
+</CD> 
+
+<CD> 
+    <TITLE>No es tuyo</TITLE> 
+    <ARTIST>Malucci</ARTIST> 
+    <COUNTRY>Estados Unidos</COUNTRY> 
+    <COMPANY>Third World Gang</COMPANY> 
+    <PRICE>15.20</PRICE> 
+    <YEAR>2020</YEAR> 
+</CD> 
+</CATALOG> 

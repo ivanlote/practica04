@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+}
+
+body {
+    background: rgb(231, 210, 183);
+    font-size: 18px;
+    color: darkblue;
+}
+
+.widget {
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 0.75em;
+    margin-bottom: 6px;
+    background: rgb(247, 200, 12);
+}
+
+.widgete {
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 0.75em;
+    margin-bottom: 6px;
+}
+
+.widget p {
+    display: inline-block;
+    line-height: 1em;
+}
+
+.demo-s {
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 0.75em;
+    margin-bottom: 5px;
+    background: rgb(0, 0, 0, .5);
+    padding: 20px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+}
+
+table{
+    table-layout: fixed;
+    width: 90%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    font-family: 'Segoe UI';
+    font-size: 15px;
+    margin: 0 auto;
+}
+
+thead{
+    font-size:16px;
+    font-family: 'Times New Roman';
+    background-color: rgb(11, 196, 42);
+}
+
+th {
+    letter-spacing: 2px;
+    border: 2px solid rgb(228, 18, 18);
+  }
+  
+td {
+    letter-spacing: 1px;
+    border: 2px solid rgb(240, 13, 13);
+  }
+  
+tbody td {
+    text-align: center;
+  }
+  
+tfoot th {
+    text-align: right;
+  }
+
+.button {
+    background-color: rgb(106, 182, 139);
+    border: rgb(62, 45, 177);
+    margin-bottom: 8px;
+    text-align: center;
+    color: rgb(250, 251, 252);
+    padding: 15px 32px;
+    text-decoration: rgb(224, 208, 206);
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
